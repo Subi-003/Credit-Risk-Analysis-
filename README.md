@@ -6,7 +6,7 @@ A machine learning web app that predicts credit risk using an Extra Trees classi
 - Built with Streamlit, scikit-learn, and pandas
 
 ## Live Demo
-[Click here to view the app](https://cuh6q69uimmjqppulg9ipd.streamlit.app/) ← add Streamlit Cloud link later
+[Click here to view the app](https://cuh6q69uimmjqppulg9ipd.streamlit.app/)
 
 ## How to Run Locally
 pip install -r requirements.txt
